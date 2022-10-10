@@ -1,0 +1,2 @@
+# JavaCorePractice
+Singleton;
