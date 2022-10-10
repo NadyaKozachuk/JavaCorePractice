@@ -1,2 +1,3 @@
 # JavaCorePractice
 Singleton;
+Page Obgect;
